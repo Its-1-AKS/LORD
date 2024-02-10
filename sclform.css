@@ -1,0 +1,42 @@
+*{
+	padding:0;
+	MARGIN:0;
+}
+Label{
+	ddisplay: block ;
+	font: 1rem' fira sans',
+	sans-serif;}
+	input,
+	Label{
+		margin:0.4rem 0;
+	}
+	.FORM{
+
+		background-color:green;
+	HEIGHT:10PX;
+	WIDTH:125px;
+	  padding:18px;
+	  
+
+ color:white;
+ font-size:17px;
+border:none;
+border-radius: 5px;
+cursor:pointer;
+ margin-left:50%;
+ margin-right:50%;
+ margin-top:0px;
+	}
+	.PO{
+		cursor:pointer;
+ margin-left:30%;
+ margin-right:30%;
+ margin-top:0px;
+	}
+	BODY{
+		background-COLOR: #ddb669;
+	}
+	IMG{
+		HEIGHT: 400PX;
+		WIDTH:100%;    
+	}

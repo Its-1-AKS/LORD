@@ -1,0 +1,44 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.container{
+	width:100%;
+	
+}
+.column1{
+	float:left;
+	width: 50%;
+	border-radius:4px;
+	background-color:red;
+	border:5px;
+	height:150%;
+	width:50%;
+	
+	
+}
+.obj{
+	color:white;
+	font-size:20;
+}
+.WHAT{
+	color:white;
+	font-size:20px;
+}
+.column2{
+	float:left;
+	width:50%;
+	background-color:blue;
+	border:5px;
+	height:150%;
+	width:50%;
+	
+}
+.RUL{
+	color:white;
+	font-size:20px;
+}
+.i{
+	height:350px;
+	width:450px;
+}

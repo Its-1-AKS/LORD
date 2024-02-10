@@ -11,7 +11,7 @@
   <BODY>
 <h1 class="lod" align="center" COLOR="#A91101">WELCOME <BR>
 LORD-BRIGHT FAMILY<BR></h1>
-<img src="D:\DOWNLOADED PHOTOS O PJW\LOD.jpg" alt="centered-image" STYLE="width:10%">
+<img src="LOD.jpg" alt="centered-image" STYLE="width:10%">
 <h3 class="lod-1"ALIGN="center">LORD-BRIGHT WISHDOM INT'L ENGLISH SCHOOL<BR></h3>
 <p class="lod-p" align="center"><q>Not failure but low aim is crime</q>
 <div id="login">
